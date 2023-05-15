@@ -1,0 +1,27 @@
+.descricao{
+    color:cadetblue;
+    font-size: 30px;
+    text-align: center;
+    H: 1px;
+}
+.ESTUDANTE {
+    color:black
+    width: 250px;
+    justify-content: center;
+    text-align: center;
+}
+img{
+    width: 250px;
+}
+
+.rodape {
+    background-color: cadetblue;
+    text-align: center;
+    padding: -0,5px 0;
+    margin: 1px  0;
+}
+
+.rodape-img {
+    height: 90px;
+    padding: 5px  0;
+}
